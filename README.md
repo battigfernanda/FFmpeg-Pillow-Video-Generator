@@ -115,20 +115,6 @@ Feel free to use and modify it as needed.
 - [gTTS](https://pypi.org/project/gTTS/)
 ```
 
----
 
-### 🛠️ **How to Upload This README to GitHub:**
-1. Create a file named **`README.md`** in your project directory.
-2. Paste the above content directly into the file.
-3. Save the file.
-4. Run these commands to upload it to GitHub:
 
-```bash
-git add README.md
-git commit -m "Add README.md"
-git push -u origin main
-```
 
----
-
-If you need help with anything else, just let me know! 😊
