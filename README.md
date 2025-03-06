@@ -114,7 +114,3 @@ Feel free to use and modify it as needed.
 - [Pillow](https://python-pillow.org/)
 - [gTTS](https://pypi.org/project/gTTS/)
 ```
-
-
-
-
